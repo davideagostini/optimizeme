@@ -1,5 +1,7 @@
 # OptimizeMe
-It is a simple application for the optimization of tasks during work. It is based on the Pomodoro technique.
+It is a simple Android application for the optimization of tasks during work. 
+
+It is based on the Pomodoro technique.
 
 Version 0.1 alpha is in development, many features will be added in future releases.
 
