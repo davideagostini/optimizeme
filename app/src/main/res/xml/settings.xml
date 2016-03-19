@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:dialogTitle="@string/settings_timer_task"
+        android:key="settings_timer_task"
+        android:inputType="number"
+        android:title="@string/settings_timer_task" />
+    <EditTextPreference
+        android:dialogTitle="@string/settings_timer_short_break"
+        android:inputType="number"
+        android:key="settings_timer_short_break"
+        android:title="@string/settings_timer_short_break" />
+    <EditTextPreference
+        android:dialogTitle="@string/settings_timer_long_break"
+        android:inputType="number"
+        android:key="settings_timer_long_break"
+        android:title="@string/settings_timer_long_break" />
+    <Preference
+        android:key="preference_version"
+        android:summary="@string/version"
+        android:title="@string/preferences_version"/>
+</PreferenceScreen>
