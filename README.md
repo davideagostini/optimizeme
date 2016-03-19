@@ -8,6 +8,6 @@ Version 0.1 alpha is in development, many features will be added in future relea
 * ....
 
 ## Comments
-Comments and criticism are welcome to improve the application.
+Comments are welcome to improve the application.
 
 
