@@ -5,11 +5,9 @@ It is based on the Pomodoro technique.
 
 Version 0.1 alpha is in development, many features will be added in future releases.
 
-![alt tag](https://raw.github.com/davideagostini/optimizeme/master/images/home.png)
+## Screenshots
 
-![alt tag](https://raw.github.com/davideagostini/optimizeme/master/images/settings.png)
-
-![alt tag](https://raw.github.com/davideagostini/optimizeme/master/images/notification.png)
+![alt tag](https://raw.github.com/davideagostini/optimizeme/master/images/screenshots.png)
 
 ## Build Instructions
  
