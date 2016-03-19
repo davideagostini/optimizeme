@@ -21,4 +21,7 @@ Version 0.1 alpha is in development, many features will be added in future relea
 ## Comments
 Comments are welcome to improve the application.
 
+## Author
+Davide Agostini - @davideagostini on GitHub and Twitter
+
 
